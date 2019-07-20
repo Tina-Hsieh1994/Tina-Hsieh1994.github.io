@@ -1,0 +1,16 @@
+p {
+  line-height: 1em;
+}
+
+article .title {
+  color: #666;
+  font-weight: 900;
+}
+
+article .body {
+  color: #999;
+}
+
+article .bottom {
+  color: #444;
+}
